@@ -1,0 +1,14 @@
+74e06a429c175d0c733c8ff243f87439 *DESCRIPTION
+5e1dbda2eef3027ad556bce9ceeb4bdc *NAMESPACE
+7a596e096fb80f4d83cdbfc26c1c60f1 *R/main.R
+5a47f072e5137f73ddd13c9c69e6fed2 *build/vignette.rds
+dc32a1270ee07a8458a5d0f0055f3e76 *inst/doc/r511-intro.R
+7e6d6c6bc488e484623b137f3487b440 *inst/doc/r511-intro.Rmd
+4514a5552b5da5f9551d317226b05340 *inst/doc/r511-intro.html
+9cfd1045fec9923f26bbeca54c87687a *man/apikey_511.Rd
+93afe83f931bd6b7bea1b82afd933548 *man/get_511_metadata.Rd
+556a72d0deed416c1dfaa5f2653f38cc *man/get_511_url.Rd
+a9e32002af21153c3ea445daca7372ff *man/xml511_to_tibble.Rd
+7a2c699bdfa5045e727a1a77196e24e1 *tests/testthat.R
+f79880f106bc8417405e317550bee0fa *tests/testthat/test-main.R
+7e6d6c6bc488e484623b137f3487b440 *vignettes/r511-intro.Rmd
